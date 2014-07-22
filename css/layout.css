@@ -33,7 +33,9 @@ header {
    height: 800px;
    min-height: 500px;
    width: 100%;
+
    background: #161415 url(../images/background.jpg) no-repeat top center;
+
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    text-align: center;
@@ -170,6 +172,7 @@ ul#nav li a {
 	text-decoration: none;
    text-align: left;
    color: #fff;	// this is to change the navigator color
+
 
 	-webkit-transition: color .2s ease-in-out;
 	-moz-transition: color .2s ease-in-out;
